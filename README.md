@@ -20,4 +20,4 @@
 
 ![12](https://user-images.githubusercontent.com/60327928/107619179-d2417780-6c63-11eb-9243-544e6b5922e6.png)
 
-                                                              Fig.1 - Result of denoising signal
+                                       Fig.1 - Result of denoising signal
